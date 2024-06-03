@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# NoSQL de Forma Simples
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um breve eBook sobre noSQL
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT
+- Copilot Microsoft Bing
+- PowerPoint
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi gerado no chatGPT o conteúdo do eBook, gerado no Copilot a imagem da capa e organizado tudo no PowerPoint.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um eBook sobre as características principais de noSQL.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
